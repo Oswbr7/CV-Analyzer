@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CvAnalyzer.API/CvAnalyzer.API.csproj" />
+    <Project Path="src/CvAnalyzer.Application/CvAnalyzer.Application.csproj" />
+    <Project Path="src/CvAnalyzer.Domain/CvAnalyzer.Domain.csproj" />
+    <Project Path="src/CvAnalyzer.Infrastructure/CvAnalyzer.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "C#",
+    "description": "C# programming language for backend development"
+  },
+  {
+    "name": ".NET",
+    "description": "Microsoft .NET framework for APIs and backend systems"
+  },
+  {
+    "name": "REST API",
+    "description": "RESTful web services and API development"
+  },
+  {
+    "name": "Azure",
+    "description": "Microsoft Azure cloud platform"
+  },
+  {
+    "name": "Azure DevOps",
+    "description": "Azure DevOps CI CD pipelines and repositories"
+  },
+  {
+    "name": "Docker",
+    "description": "Docker containers and deployments"
+  }
+]
