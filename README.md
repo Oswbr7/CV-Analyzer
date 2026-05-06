@@ -125,20 +125,6 @@ Create `.env` in `ai-service-python`:
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
-
----
-
-## 📸 Demo
-
-> (Add screenshots or GIF here)
-
-Suggested:
-
-* Upload PDFs
-* Ranking results
-* Candidate modal
-* AI insights
-
 ---
 
 ## 🧠 Key Concepts Implemented
